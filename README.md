@@ -39,6 +39,6 @@ De forma similar a la práctica anterior, analizamos conjuntos de datos y median
 
 [Práctica 4 explicación](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Descripción de la Práctica 4 y las acciones llevadas a cabo en ella.
 
-[Práctica 4 ipynb](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
+[Práctica 4 ipynb](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/Practica4%20(1).ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
 
-[Práctica 4 html](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Mismo archivo en formato html
+[Práctica 4 html](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/Practica4%20(1).html): Mismo archivo en formato html
