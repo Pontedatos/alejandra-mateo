@@ -24,25 +24,25 @@ Análisis sobre distintas formas de visualización de datos, comentando aspectos
  
  [Práctica 3 explicación](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/practica-3.md): Explicación pormenorizada de las acciones llevadas a cabo en esta práctica
  
- 
  [Práctica 3 mapa folium ipynb](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Análisis de los datos sobre accidentes en Zaragoza con las librerías 'pandas' y 'folium'.
  
-[Práctica 3 mapa folium html](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Mismo archivo pero en formato html 
+[Práctica 3 mapa folium html](https://github.com/Pontedatos/alejandra-mateo/blob/master/api-pandas-folium%20(1).html): Mismo archivo pero en formato html 
  
-[Práctica 3 datos Covid ipynb](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Análisis de datos sobre el Covid-19 con la librería 'pandas'
+[Práctica 3 datos Covid ipynb](https://github.com/Pontedatos/alejandra-mateo/blob/master/python-api-covid19-pandas%20(1).ipynb): Análisis de datos sobre el Covid-19 con la librería 'pandas'
 
-[Práctica 3 datos Covid html](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Mismo archivo pero en formato html
+[Práctica 3 datos Covid html](https://github.com/Pontedatos/alejandra-mateo/blob/master/python-api-covid19-pandas.html): Mismo archivo pero en formato html
 
 ### Práctica 4
 
 De forma similar a la práctica anterior, analizamos conjuntos de datos y mediante librerías conseguimos visualizar de manera gráfica su contenido.
 
-[Práctica 4 explicación](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Descripción de la Práctica 4 y las acciones llevadas a cabo en ella.
+[Práctica 4 explicación](https://github.com/Pontedatos/alejandra-mateo/blob/master/practica-4.md): Descripción de la Práctica 4 y las acciones llevadas a cabo en ella.
 
 [Práctica 4 ipynb](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/Practica4%20(1).ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
 
 [Práctica 4 html](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/Practica4%20(1).html): Mismo archivo en formato html
 
+[Práctica 4 csv](https://github.com/Pontedatos/alejandra-mateo/blob/master/practica-4.csv): Conjunto de datos empleados para realizar la práctica
 
 ### Trabajo final
 
