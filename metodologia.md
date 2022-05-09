@@ -1,7 +1,7 @@
 # Metodología utilizada en la práctica final de Periodismo de datos
 
-En esta última práctica de la asignatura Periodismo de Datos hemos creado, en la organización Pontedatos, un repositorio nuevo en el que hemos introducido todas las prácticas llevado a cabo a lo largo del curso. Estas prácticas están explicadas en distintos archivos de github que figuran en esta práctica final.
-También hemos creado una página web desde Github, dotando de una estructura web a la información.
+En esta última práctica de la asignatura Periodismo de Datos hemos creado, en la organización Pontedatos, [un repositorio nuevo](https://github.com/Pontedatos/alejandra-mateo) en el que hemos introducido todas las prácticas llevado a cabo a lo largo del curso. Estas prácticas están explicadas en distintos archivos de github que figuran en esta práctica final.
+También hemos creado [una página web desde Github](https://pontedatos.github.io/alejandra-mateo/), dotando de una estructura web a la información.
 
 ## 1. Crear un nuevo repositorio y recopilar ahi los trabajos de la asignatura
 
