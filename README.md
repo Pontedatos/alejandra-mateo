@@ -2,7 +2,7 @@
 
 ## Curso 2021-2022 Grupo 63
 
-En el siguiente repositorio se presentan todas las prácticas realizadas durante el curso de Periodismo de Datos por parte de la alumna Alejandra Mateo Fano (Universidad Carlos III de Madrid), alumna de Periodismo y Humanidades en el grupo 63. En el mismo se podrán ver tanto los archivos de las prácticas llevadas a cabo en esta asignatura como la explicación precisa de cada una de ellas.
+En el siguiente repositorio se presentan todas las prácticas realizadas durante el curso de Periodismo de Datos por parte de la alumna Alejandra Mateo Fano (Universidad Carlos III de Madrid), alumna de Periodismo y Humanidades en el grupo 63. En el mismo se podrán ver tanto los archivos de las prácticas llevadas a cabo en esta asignatura como la explicación precisa de cada una de ellas. La página web en la que aparece este contenido se encuentra [a través de este enlace](https://pontedatos.github.io/alejandra-mateo/)
 
 ## Prácticas realizadas
 
@@ -40,9 +40,9 @@ De forma similar a la práctica anterior, analizamos conjuntos de datos y median
 
 [Práctica 4 explicación](practica-4.md): Descripción de la Práctica 4 y las acciones llevadas a cabo en ella.
 
-[Práctica 4 ipynb](Practica4.ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
+[Práctica 4 ipynb](Practica-4.ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
 
-[Práctica 4 html](Practica4.html): Mismo archivo en formato html
+[Práctica 4 html](Practica-4.html): Mismo archivo en formato html
 
 [Práctica 4 csv](practica-4.csv): Conjunto de datos empleados para realizar la práctica
 
