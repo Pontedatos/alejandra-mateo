@@ -24,13 +24,15 @@ Análisis sobre distintas formas de visualización de datos, comentando aspectos
  
  [Práctica 3 explicación](practica-3.md): Explicación pormenorizada de las acciones llevadas a cabo en esta práctica
  
- [Práctica 3 mapa folium ipynb](api-pandas-folium%20(1).ipynb): Análisis de los datos sobre accidentes en Zaragoza con las librerías 'pandas' y 'folium'.
+ [Práctica 3 mapa folium ipynb](api-pandas-folium.ipynb): Análisis de los datos sobre accidentes en Zaragoza con las librerías 'pandas' y 'folium'.
  
-[Práctica 3 mapa folium html](api-pandas-folium%20(1).html): Mismo archivo pero en formato html 
+[Práctica 3 mapa folium html](api-pandas-folium.html): Mismo archivo pero en formato html 
  
-[Práctica 3 datos Covid ipynb](python-api-covid19-pandas%20(1).ipynb): Análisis de datos sobre el Covid-19 con la librería 'pandas'
+[Práctica 3 datos Covid ipynb](python-api-covid19-pandas.ipynb): Análisis de datos sobre el Covid-19 con la librería 'pandas'
 
 [Práctica 3 datos Covid html](python-api-covid19-pandas.html): Mismo archivo pero en formato html
+
+[Práctica 3 CSV](practica-3.csv):Conjunto de datos empleado para esta práctica
 
 ### Práctica 4
 
@@ -38,9 +40,9 @@ De forma similar a la práctica anterior, analizamos conjuntos de datos y median
 
 [Práctica 4 explicación](practica-4.md): Descripción de la Práctica 4 y las acciones llevadas a cabo en ella.
 
-[Práctica 4 ipynb](Practica4%20(1).ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
+[Práctica 4 ipynb](Practica4.ipynb) : A partir de una base de datos obtenida del portal del gobierno, importamos la librería 'pandas' y así visualizamos los datos que contiene la misma. Vamos explicando paso a paso el proceso.
 
-[Práctica 4 html](Practica4%20(1).html): Mismo archivo en formato html
+[Práctica 4 html](Practica4.html): Mismo archivo en formato html
 
 [Práctica 4 csv](practica-4.csv): Conjunto de datos empleados para realizar la práctica
 
