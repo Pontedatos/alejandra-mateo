@@ -10,7 +10,7 @@ En el siguiente repositorio se presentan todas las prácticas realizadas durante
 
 Análisis sobre distintas formas de visualización de datos, comentando aspectos relevantes sobre la información presente en esos trabajos de periodismo de datos.
 
-[Práctica 1 libre](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/practica-1-tresca.md): Comentario de texto sobre una noticia publicada  por Eldiario.es, que utiliza dos formas para presentar los datos de los resultados electorales de Castilla León.
+[Práctica 1 libre](practica-1-tresca.md): Comentario de texto sobre una noticia publicada  por Eldiario.es, que utiliza dos formas para presentar los datos de los resultados electorales de Castilla León.
 
 [Práctica 1 TRESCA](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/practica-1-tresca.md): Comentario de texto sobre el estudio realizado por la empresa de tecnología TRESCA, en el cual se mide el nivel de confianza de la población hacia las redes sociales y su grado de perjuicio para la salud mental.
 
