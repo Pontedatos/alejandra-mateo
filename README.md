@@ -26,7 +26,7 @@ Análisis sobre distintas formas de visualización de datos, comentando aspectos
  
  [Práctica 3 mapa folium ipynb](https://github.com/Alejandraa98/practicas-periodismo-de-datos/blob/main/api-pandas-folium%20(1).ipynb): Análisis de los datos sobre accidentes en Zaragoza con las librerías 'pandas' y 'folium'.
  
-[Práctica 3 mapa folium html](https://github.com/Pontedatos/alejandra-mateo/blob/master/api-pandas-folium%20(1).html): Mismo archivo pero en formato html 
+[Práctica 3 mapa folium html](api-pandas-folium%20(1).html): Mismo archivo pero en formato html 
  
 [Práctica 3 datos Covid ipynb](https://github.com/Pontedatos/alejandra-mateo/blob/master/python-api-covid19-pandas%20(1).ipynb): Análisis de datos sobre el Covid-19 con la librería 'pandas'
 
