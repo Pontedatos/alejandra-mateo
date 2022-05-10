@@ -49,3 +49,5 @@ De forma similar a la práctica anterior, analizamos conjuntos de datos y median
 En esta última práctica hemos creado un repositorio en la organización Pontedatos y ahí hemos depositado los trabajos realizados a lo largo de la asignatura de Periodismo de Datos. Posteriormente hemos creado una página web en ese repositorio.
 
 [Metodología trabajo final](https://github.com/Pontedatos/alejandra-mateo/blob/master/metodologia.md). En este archivo se explica paso a paso la creación del repositorio así como la elaboración de una estructura web gracias a la función Pages de Github.
+
+[Resumen de los aprendizajes de la asignatura](https://github.com/Pontedatos/alejandra-mateo/blob/master/resumen.md). En este archivo he realizado una síntesis de los contenidos que hemos aprendido a lo largo de las sesiones de Periodismo de Datos.
